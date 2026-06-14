@@ -23,7 +23,7 @@
 
 ## Abstract
 
-RegGraph AI is a full-stack, enterprise-grade compliance operating system designed for Indian SMBs and enterprises. The platform continuously monitors live regulatory portals (GSTN, EPFO, FSSAI, State Professional Tax), detects regulatory shifts in real time, and automatically cascades changes across all affected business profiles. 
+RegGraph AI is a full-stack, enterprise-grade compliance APK for mobile first approach designed for Indian SMBs and enterprises. The platform continuously monitors live regulatory portals (GSTN, EPFO, FSSAI, State Professional Tax), detects regulatory shifts in real time, and automatically cascades changes across all affected business profiles. 
 
 Every autonomous decision is strictly verified through a Dual-Rail Architecture: a high-performance LLM reasoning rail is cross-evaluated against a deterministic Python-based rule engine. In the event of a variance or disagreement between the rails, the pipeline triggers a zero-trust human-in-the-loop escalation, guaranteeing high-integrity compliance operations.
 
