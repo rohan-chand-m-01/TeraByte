@@ -3,10 +3,7 @@
 
   <br />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/NMIT_Hacks_Grand_Finale-🏆_Finalist-f97316?style=for-the-badge&logoColor=white" alt="NMIT Hacks Grand Finale" />
-    <img src="https://img.shields.io/badge/Registrations-7000%2B-ec4899?style=for-the-badge&logoColor=white" alt="7000+ Registrations" />
-  </p>
+
 
   <p align="center">
     <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -29,12 +26,6 @@
 RegGraph AI is a full-stack, enterprise-grade compliance operating system designed for Indian SMBs and enterprises. The platform continuously monitors live regulatory portals (GSTN, EPFO, FSSAI, State Professional Tax), detects regulatory shifts in real time, and automatically cascades changes across all affected business profiles. 
 
 Every autonomous decision is strictly verified through a Dual-Rail Architecture: a high-performance LLM reasoning rail is cross-evaluated against a deterministic Python-based rule engine. In the event of a variance or disagreement between the rails, the pipeline triggers a zero-trust human-in-the-loop escalation, guaranteeing high-integrity compliance operations.
-
----
-
-## Hackathon Recognition
-
-RegGraph AI was engineered for the **NMIT Hacks Grand Finale**, distinguishing itself in a highly competitive pool of over **7000+ registrations**. The architecture delivers enterprise-level compliance automation designed to scale under demanding environments.
 
 ---
 
@@ -273,11 +264,7 @@ To demonstrate the full capability of the autonomous pipeline:
 
 ---
 
-## System Engineering Team
 
-**HEAPIFY | NMIT**
-
----
 
 ## License
 
